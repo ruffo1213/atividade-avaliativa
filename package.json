@@ -1,0 +1,18 @@
+{
+  "name": "atividade-avaliativa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ALAN RUFFO",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.0.2"
+  },
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1",
+    "mysql2": "^3.10.1"
+  }
+}
